@@ -99,4 +99,4 @@ Check it out here: [WorldWise](https://worldwise-jonas.netlify.app//)
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/oganaa2472/worldwise
+git clone https://github.com/oganaa2472/world-wise
